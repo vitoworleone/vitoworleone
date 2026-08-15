@@ -14,8 +14,6 @@ Master's student at Shanghai University. I explore how AI-native products, data,
 
 I currently focus on **MatrixOne Intelligence (MOI)**, an AI-native multimodal data intelligence platform. MOI brings together data access, parsing, governance, intelligent retrieval, and agent-ready services, helping transform structured, semi-structured, and unstructured data into **AI-Ready** assets for the next generation of AI applications.
 
-[Explore MatrixOne Intelligence →](https://docs.matrixorigin.cn/moi/zh/5.0/get-started/welcome.html)
-
 ## Experience
 
 <img src="./assets/matrixorigin.png" alt="MatrixOrigin" height="38" />
