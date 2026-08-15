@@ -5,11 +5,17 @@
 <h1 align="center">Hi, I'm Vito 👋</h1>
 
 <p align="center">
+  <a href="mailto:vito30570@gmail.com"><img src="https://img.shields.io/badge/vito30570%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: vito30570@gmail.com" /></a>
+</p>
+
+<p align="center">
   🤖 AI Product Manager &nbsp;·&nbsp; 🧠 AI Power User &nbsp;·&nbsp; 🧩 AI-Native Product Builder
 </p>
 
 <p align="center">
-  🎓 Master's student at Shanghai University &nbsp;·&nbsp; 📍 Shanghai, China
+  <img src="./assets/shanghai-university.svg" alt="Shanghai University" height="30" />
+  <br>
+  <strong>Master's student at Shanghai University</strong> &nbsp;·&nbsp; 📍 Shanghai, China
 </p>
 
 ## 👨‍💻 About Me
@@ -29,7 +35,7 @@ My areas of focus:
 <table>
   <tr>
     <td width="96" align="center">
-      <img src="./assets/matrixorigin.png" alt="MatrixOrigin" width="72" />
+      <img src="./assets/matrixorigin.svg" alt="MatrixOrigin" width="82" />
     </td>
     <td>
       <strong>MatrixOrigin · AI Product Manager · Present</strong><br><br>
