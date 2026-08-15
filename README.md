@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Vito 👋
 
-<!--
-**vitoworleone/vitoworleone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **AI Native · Product · Agent**
 
-Here are some ideas to get you started:
+Master's student at Shanghai University. I explore how AI-native products, data, and agents can make work more intelligent and useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+<a href="https://docs.matrixorigin.cn/moi/zh/5.0/get-started/welcome.html">
+  <img src="./assets/matrixorigin.png" alt="MatrixOrigin" height="52" />
+</a>
+
+### AI Product Manager at MatrixOrigin
+
+I currently focus on **MatrixOne Intelligence (MOI)**, an AI-native multimodal data intelligence platform. MOI brings together data access, parsing, governance, intelligent retrieval, and agent-ready services, helping transform structured, semi-structured, and unstructured data into **AI-Ready** assets for the next generation of AI applications.
+
+[Explore MatrixOne Intelligence →](https://docs.matrixorigin.cn/moi/zh/5.0/get-started/welcome.html)
+
+## Experience
+
+<img src="./assets/matrixorigin.png" alt="MatrixOrigin" height="38" />
+
+**MatrixOrigin** · AI Product Manager · Present
+
+---
+
+Currently building and sharing: [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook)
