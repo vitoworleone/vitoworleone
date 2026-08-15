@@ -1,33 +1,79 @@
-# Hi, I'm Vito 👋
+<h1 align="center">Hi, I'm Vito 👋</h1>
 
-> **AI Native · Product · Agent**
+<p align="center">
+  🤖 AI Product Manager &nbsp;·&nbsp; 🧠 AI Power User &nbsp;·&nbsp; 🧩 AI-Native Product Builder
+</p>
 
-Master's student at Shanghai University. I explore how AI-native products, data, and agents can make work more intelligent and useful.
+<p align="center">
+  🎓 Master's student at Shanghai University &nbsp;·&nbsp; 📍 Shanghai, China
+</p>
 
-## What I'm working on
+## 👨‍💻 关于我 · About Me
 
-<a href="https://docs.matrixorigin.cn/moi/zh/5.0/get-started/welcome.html">
-  <img src="./assets/matrixorigin.png" alt="MatrixOrigin" height="52" />
-</a>
+我是一名 **AI 重度玩家**，也是持续在一线构建 AI 产品的产品经理。我不把 AI 只当作聊天工具，而是把它当作新的产品基础设施：连接数据、模型、工具、工作流与人的判断，让复杂任务真正被执行、验证和持续优化。
 
-### AI Product Manager at MatrixOrigin
+I'm an **AI power user** and a product manager who builds with AI every day. I see AI as more than a conversational interface—it is a new product infrastructure that connects data, models, tools, workflows, and human judgment to make complex work executable, verifiable, and continuously improvable.
 
-I currently focus on **MatrixOne Intelligence (MOI)**, an AI-native multimodal data intelligence platform. MOI brings together data access, parsing, governance, intelligent retrieval, and agent-ready services, helping transform structured, semi-structured, and unstructured data into **AI-Ready** assets for the next generation of AI applications.
+我长期关注 / My areas of focus:
 
-## Experience
+- 🤖 **Agent Systems** — 工具调用、状态编排、记忆、权限与人机协作 / tool use, state orchestration, memory, permissions, and human–AI collaboration
+- 📚 **RAG & Knowledge** — 多模态解析、混合检索、重排、引用溯源与评估 / multimodal parsing, hybrid retrieval, reranking, citation grounding, and evaluation
+- 🔎 **Deep Research** — 多智能体研究、信源治理、数据分析、写作与审核闭环 / multi-agent research, source governance, analysis, writing, and review loops
+- 🧪 **AI Productization** — 结构化输出、可观测性、成本、可靠性与隐私 / structured output, observability, cost, reliability, and privacy
+- 🛠️ **Developer Tools** — Coding Agents、MCP、Skills 与 AI-native workflows
 
-<img src="./assets/matrixorigin.png" alt="MatrixOrigin" height="38" />
+## 💼 工作经历 · Experience
 
-**MatrixOrigin** · AI Product Manager · Present
+<table>
+  <tr>
+    <td width="96" align="center">
+      <img src="./assets/matrixorigin.png" alt="MatrixOrigin" width="72" />
+    </td>
+    <td>
+      <strong>MatrixOrigin · AI Product Manager · Present</strong><br><br>
+      围绕 <strong>MatrixOne Intelligence (MOI)</strong> 推进 AI Native 产品设计，将 AI Studio、MatrixOne 与 Genesis 串联为从多模态数据接入、加工治理和 AI-Ready 数据，到知识库、工作流、Agent 与应用构建的一体化路径。重点关注企业级 AI 从 Demo 走向生产所需要的权限、可追溯性、可观测性、模型服务治理与持续优化闭环。<br><br>
+      Driving AI-native product design for <strong>MatrixOne Intelligence (MOI)</strong>, connecting AI Studio, MatrixOne, and Genesis into an integrated journey from multimodal data ingestion and governance to AI-Ready data, knowledge bases, workflows, agents, and applications. My focus is turning AI demos into production-ready systems through permissions, traceability, observability, model-service governance, and continuous improvement loops.
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <img src="./assets/industrial-securities.png" alt="Industrial Securities" width="82" />
+    </td>
+    <td>
+      <strong>Industrial Securities · AI Product Manager</strong><br><br>
+      面向金融研究与企业知识服务场景，参与构建企业级 RAG 与多智能体深度研究产品，将文档解析、混合检索与重排、引用溯源、数据分析、报告生成和对抗式审核串成端到端流程。产品设计重点平衡答案准确性、信源可信度、长任务过程透明度，以及系统成本与稳定性。<br><br>
+      Worked on enterprise RAG and multi-agent deep-research products for financial research and knowledge services. Connected document parsing, hybrid retrieval and reranking, source attribution, data analysis, report generation, and adversarial review into an end-to-end workflow—balancing answer quality, source credibility, long-running task transparency, cost, and reliability.
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center">
+      <img src="./assets/boss-zhipin.png" alt="Kanzhun Technology (BOSS Zhipin)" width="58" />
+    </td>
+    <td>
+      <strong>Kanzhun Technology (BOSS Zhipin) · AI Product Manager</strong><br><br>
+      围绕招聘与求职场景探索 AI 简历智能，将简历解析、目标岗位理解、JD 检索、技能画像、结构化诊断与对话式优化组织成完整产品链路。关注如何把 LangGraph 工作流、结构化输出、SSE 进度反馈、链路观测与隐私边界转化为用户可理解、可控制的产品体验。<br><br>
+      Explored AI-powered resume intelligence for recruiting and job-seeking scenarios, shaping a product journey from resume parsing and target-role understanding to JD retrieval, skill profiling, structured diagnosis, and conversational optimization. Focused on translating LangGraph workflows, structured outputs, SSE progress updates, tracing, and privacy boundaries into a controllable user experience.
+    </td>
+  </tr>
+</table>
 
-<img src="./assets/industrial-securities.png" alt="Industrial Securities" height="38" />
+## 🧭 我的产品观 · Product Principles
 
-**Industrial Securities** · AI Product Manager
+> **AI Native 不是在旧产品上增加一个聊天框，而是重新设计数据如何流动、任务如何执行、结果如何被信任。**
+>
+> **AI Native is not about adding a chat box to an existing product. It is about redesigning how data flows, how work gets done, and how results earn trust.**
 
-<img src="./assets/boss-zhipin.png" alt="Kanzhun Technology (BOSS Zhipin)" height="42" />
+我相信优秀的 AI 产品经理需要同时理解用户任务、模型行为与系统边界：既能定义产品价值，也能深入上下文工程、Agent 编排、评估体系和生产可靠性，把模型能力真正转化为稳定的产品能力。
 
-**Kanzhun Technology (BOSS Zhipin)** · AI Product Manager
+I believe a strong AI product manager must understand user jobs, model behavior, and system constraints at the same time—connecting product strategy with context engineering, agent orchestration, evaluation, and production reliability.
+
+## 🚀 正在构建 · Building
+
+- 📘 [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook) — 把 Claude Code 从“会用”推进到“造得出”的实战知识库
+- 🧠 持续实践 Coding Agents、Deep Research、RAG、MCP 与多智能体工作流
 
 ---
 
-Currently building and sharing: [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook)
+<p align="center">
+  <strong>Build with AI. Think in systems. Ship what works. ✨</strong>
+</p>
