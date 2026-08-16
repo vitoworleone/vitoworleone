@@ -44,6 +44,22 @@ My areas of focus:
   </tr>
 </table>
 
+## 🌐 Community & Research
+
+### Organization World — Org-level Agent Evaluation
+
+WebAgentLab community project, in collaboration with Shanghai AI Laboratory.
+
+Most benchmarks ask whether a single agent can finish an isolated task. Organization World asks something else: when multiple roles collaborate under real task dependencies — without clean intermediate answers at every handoff — can an agent team still deliver reliable end-to-end results?
+
+What I focus on:
+
+- Problem framing for organization-level evaluation
+- Error propagation along collaboration chains
+- Stage-wise tasks, verification, and case design
+- Building evaluable cases from real collaboration artifacts (chat, docs, milestones)
+- Studying related public benchmarks to sharpen the evaluation design
+
 ## 🧭 Product Principles
 
 > **AI Native is not about adding a chat box to an existing product. It is about redesigning how data flows, how work gets done, and how results earn trust.**
