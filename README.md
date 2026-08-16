@@ -2,21 +2,21 @@
   <strong>简体中文</strong> &nbsp;|&nbsp; <a href="./README_EN.md">English</a>
 </p>
 
-<h1 align="center">你好，我是 Vito 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:vito30570@gmail.com"><img src="https://img.shields.io/badge/vito30570%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: vito30570@gmail.com" /></a>
-</p>
+### [你好，我是 Vito. AI 产品经理](https://github.com/vitoworleone)
 
-<p align="center">
-  🤖 AI 产品经理 &nbsp;·&nbsp; 🧠 AI 重度玩家 &nbsp;·&nbsp; 🧩 AI Native 产品构建者
-</p>
+✨ AI 重度玩家. &nbsp; 🧩 AI Native 产品构建者.
 
-<p align="center">
-  <img src="./assets/shanghai-university.svg" alt="Shanghai University" height="30" />
-  <br>
-  <strong>上海大学硕士生</strong> &nbsp;·&nbsp; 📍 中国上海
-</p>
+👋 Building the future like it already belongs to me.
+
+<img src="./assets/shanghai-university.svg" alt="Shanghai University" height="28" />
+
+🎓 **上海大学硕士生** &nbsp;·&nbsp; 📍 中国上海
+
+<a href="mailto:vito30570@gmail.com"><img src="https://img.shields.io/badge/vito30570%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: vito30570@gmail.com" /></a>
+
+</div>
 
 ## 👨‍💻 关于我
 
