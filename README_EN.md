@@ -9,13 +9,19 @@
 </p>
 
 <h3 align="center">
-  🤖 <strong>AI Product Manager</strong> &nbsp;·&nbsp; 🧠 <strong>AI Power User</strong> &nbsp;·&nbsp; 🧩 <strong>AI-Native Product Builder</strong>
+  🤖 <strong>AI Product Manager</strong>
+  &nbsp;&nbsp;
+  🧠 <strong>AI Power User</strong>
+  &nbsp;&nbsp;
+  🧩 <strong>AI-Native Product Builder</strong>
 </h3>
 
 <p align="center">
   <img src="./assets/shanghai-university.svg" alt="Shanghai University" height="30" />
   <br>
-  <strong>Master's student at Shanghai University</strong> &nbsp;·&nbsp; 📍 Shanghai, China
+  <strong>Master's student at Shanghai University</strong>
+  &nbsp;&nbsp;
+  📍 Shanghai, China
 </p>
 
 ## 👨‍💻 About Me
