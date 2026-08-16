@@ -8,9 +8,9 @@
   <a href="mailto:vito30570@gmail.com"><img src="https://img.shields.io/badge/vito30570%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: vito30570@gmail.com" /></a>
 </p>
 
-<p align="center">
-  🤖 AI 产品经理 &nbsp;·&nbsp; 🧠 AI 重度玩家 &nbsp;·&nbsp; 🧩 AI Native 产品构建者
-</p>
+<h3 align="center">
+  🤖 <strong>AI 产品经理</strong> &nbsp;·&nbsp; 🧠 <strong>AI 重度玩家</strong> &nbsp;·&nbsp; 🧩 <strong>AI Native 产品构建者</strong>
+</h3>
 
 <p align="center">
   <img src="./assets/shanghai-university.svg" alt="Shanghai University" height="30" />
