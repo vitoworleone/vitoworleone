@@ -53,10 +53,10 @@
   </tr>
   <tr>
     <td width="96" align="center">
-      <img src="./assets/boss-zhipin.png" alt="Kanzhun Technology (BOSS Zhipin)" width="82" />
+      <img src="./assets/boss-zhipin.png" alt="北京华品博睿网络技术有限公司（BOSS 直聘）" width="82" />
     </td>
     <td>
-      <strong>Kanzhun Technology（BOSS Zhipin）· AI Product Manager</strong><br><br>
+      <strong>北京华品博睿网络技术有限公司（BOSS 直聘）· AI Product Manager</strong><br><br>
       围绕招聘与求职场景探索 AI 简历智能，将简历解析、目标岗位理解、JD 检索、技能画像、结构化诊断与对话式优化组织成完整产品链路。关注如何把 LangGraph 工作流、结构化输出、SSE 进度反馈、链路观测与隐私边界转化为用户可理解、可控制的产品体验。
     </td>
   </tr>

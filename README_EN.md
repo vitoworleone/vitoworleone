@@ -53,10 +53,10 @@ My areas of focus:
   </tr>
   <tr>
     <td width="96" align="center">
-      <img src="./assets/boss-zhipin.png" alt="Kanzhun Technology (BOSS Zhipin)" width="82" />
+      <img src="./assets/boss-zhipin.png" alt="Beijing Huapin Borui Network Technology Co., Ltd. (BOSS Zhipin)" width="82" />
     </td>
     <td>
-      <strong>Kanzhun Technology (BOSS Zhipin) · AI Product Manager</strong><br><br>
+      <strong>Beijing Huapin Borui Network Technology Co., Ltd. (BOSS Zhipin) · AI Product Manager</strong><br><br>
       Explored AI-powered resume intelligence for recruiting and job-seeking scenarios, shaping a product journey from resume parsing and target-role understanding to JD retrieval, skill profiling, structured diagnosis, and conversational optimization. Focused on translating LangGraph workflows, structured outputs, SSE progress updates, tracing, and privacy boundaries into a controllable user experience.
     </td>
   </tr>
