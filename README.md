@@ -9,13 +9,19 @@
 </p>
 
 <h3 align="center">
-  🤖 <strong>AI 产品经理</strong> &nbsp;·&nbsp; 🧠 <strong>AI 重度玩家</strong> &nbsp;·&nbsp; 🧩 <strong>AI Native 产品构建者</strong>
+  🤖 <strong>AI 产品经理</strong>
+  &nbsp;&nbsp;
+  🧠 <strong>AI 重度玩家</strong>
+  &nbsp;&nbsp;
+  🧩 <strong>AI Native 产品构建者</strong>
 </h3>
 
 <p align="center">
   <img src="./assets/shanghai-university.svg" alt="Shanghai University" height="30" />
   <br>
-  <strong>上海大学硕士生</strong> &nbsp;·&nbsp; 📍 中国上海
+  <strong>上海大学硕士生</strong>
+  &nbsp;&nbsp;
+  📍 中国上海
 </p>
 
 ## 👨‍💻 关于我
