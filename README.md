@@ -6,17 +6,13 @@
 
 ### AI Product Manager | Enterprise AI Data, Agent Systems, and Evaluation
 
-<p>
-  <img src="./assets/shanghai-university.svg" alt="Shanghai University" height="28" />
-  <br />
-  Shanghai University · Shanghai, China
-</p>
-
 I design AI products for complex knowledge work: from data ingestion and governance to knowledge retrieval, workflows, agents, evaluation, and verifiable delivery. My focus is helping AI move beyond demos into dependable business systems.
 
-- 🔭 **Currently building:** MatrixOne Intelligence (MOI), an enterprise AI data and agent platform.
-- 🧩 **Domain experience:** enterprise knowledge services, financial workflows, ABS documentation, bond underwriting, financial analysis, and credit due diligence.
-- 🧠 **Core interests:** AI-ready data, document intelligence, RAG, agent systems, workflow orchestration, and AI evaluation.
+- 🔭 **Currently Building:**
+  - [**MatrixOne Intelligence (MOI)**](https://github.com/vitoworleone/matrixone-intelligence-casebook): an enterprise platform connecting AI-ready data, knowledge, workflows, agents, and governance.
+  - **Financial Agent Evaluation:** benchmarks and programmatic verifiers for document-heavy financial work.
+- 🧩 **Domain Experience:** enterprise knowledge services, financial workflows, ABS documentation, bond underwriting, financial analysis, and credit due diligence.
+- 🧠 **Deep Focus:** `Enterprise AI Data` `Document Intelligence` `RAG` `Agent Systems` `Workflow Orchestration` `AI Evaluation`
 - 💬 **Ask me about:** enterprise AI products, reliable agent workflows, financial AI, and shipping LLM systems to production.
 
 ---
@@ -48,7 +44,7 @@ Designed financial-domain agent benchmarks and programmatic verifiers for ABS do
 
 ---
 
-## Selected Projects
+## 🛠️ The Projects I Build
 
 Project | Description
 --- | ---

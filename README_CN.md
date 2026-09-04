@@ -6,17 +6,13 @@
 
 ### AI 产品经理｜企业 AI 数据、智能体系统与评测
 
-<p>
-  <img src="./assets/shanghai-university.svg" alt="Shanghai University" height="28" />
-  <br />
-  上海大学 · 中国上海
-</p>
-
 我专注于复杂知识工作的 AI 产品设计：从数据接入与治理、知识检索、工作流和智能体，到质量评测与可验证交付，让 AI 从演示能力走向真实业务系统。
 
-- 🔭 **正在构建：**MatrixOne Intelligence（MOI）企业 AI 数据与智能体平台。
+- 🔭 **正在构建：**
+  - [**MatrixOne Intelligence（MOI）**](https://github.com/vitoworleone/matrixone-intelligence-casebook)：连接 AI-Ready Data、知识、工作流、Agent 与治理能力的企业级平台。
+  - **金融智能体评测：**面向文档密集型金融工作的 Benchmark 与程序化 Verifier。
 - 🧩 **业务经验：**企业知识服务、金融工作流、ABS 底稿、债券承做、财务分析与信用尽调。
-- 🧠 **核心关注：**AI-Ready Data、文档智能、RAG、Agent、工作流编排与 AI 评测。
+- 🧠 **深度关注：**`企业 AI 数据` `文档智能` `RAG` `智能体系统` `工作流编排` `AI 评测`
 - 💬 **欢迎交流：**企业 AI 产品、可靠的 Agent 工作流、金融垂类 AI，以及如何将 LLM 产品推向生产。
 
 ---
@@ -48,7 +44,7 @@ MatrixOne Intelligence（MOI）是一套面向企业复杂数据与知识工作�
 
 ---
 
-## 代表项目
+## 🛠️ 我在构建的项目
 
 项目 | 简介
 --- | ---
