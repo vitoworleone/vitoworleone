@@ -10,7 +10,7 @@ I design AI products for complex knowledge work: from data ingestion and governa
 
 - 🔭 **Currently Building:**
   - [**MatrixOne Intelligence (MOI)**](https://github.com/vitoworleone/matrixone-intelligence-casebook): an enterprise platform connecting AI-ready data, knowledge, workflows, agents, and governance.
-  - [**Astra**](https://github.com/vitoworleone/Astra): a context-to-execution runtime for durable, governed enterprise agents.
+  - [**Astra**](https://github.com/vitoworleone/Astra): a self-hosted runtime for agents working across private enterprise systems—with persistent tasks, permission-aware execution, and traceable, reversible changes.
   - **Financial Agent Evaluation:** benchmarks and programmatic verifiers for document-heavy financial work.
 - 🧩 **Domain Experience:** enterprise knowledge services, financial workflows, ABS documentation, bond underwriting, financial analysis, and credit due diligence.
 - 🧠 **Deep Focus:** `Enterprise AI Data` `Document Intelligence` `RAG` `Agent Systems` `Workflow Orchestration` `AI Evaluation`
@@ -50,7 +50,7 @@ Designed financial-domain agent benchmarks and programmatic verifiers for ABS do
 Project | Description
 --- | ---
 [MatrixOne Intelligence Casebook](https://github.com/vitoworleone/matrixone-intelligence-casebook) | Product cases for MOI covering data ingestion, workflows, knowledge retrieval, agents, platform governance, POCs, evaluation, and Storybook.
-[Astra](https://github.com/vitoworleone/Astra) | A context-to-execution runtime for durable, governed enterprise agents.
+[Astra](https://github.com/vitoworleone/Astra) | A self-hosted runtime for agents working across private enterprise systems—with persistent tasks, permission-aware execution, and traceable, reversible changes.
 [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook) | A practical knowledge base and runtime workshop for building with coding agents.
 [DeepResearch Industry Assistant](https://github.com/vitoworleone/DeepResearch-Industry-Assistant) | A traceable multi-agent research system for industry intelligence.
 [OfferUpin](https://github.com/vitoworleone/OfferUpin) | An AI-powered resume diagnosis and optimization platform built with FastAPI, React, LangGraph, PostgreSQL, and Redis.
