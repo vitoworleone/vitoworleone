@@ -11,9 +11,7 @@
 - 🔭 **正在构建：**
   - [**MatrixOne Intelligence（MOI）**](https://github.com/vitoworleone/matrixone-intelligence-casebook)：连接 AI-Ready Data、知识、工作流、Agent 与治理能力的企业级平台。
   - [**Astra**](https://github.com/vitoworleone/Astra)：让智能体能在企业私有系统中长期、安全执行任务的平台：任务可续跑，权限可控，操作可追溯、可回滚。
-  - [**金融 CUA Benchmark**](https://github.com/vitoworleone/financial-cua-benchmark)：通过字段真值、业务勾稽、来源映射、提交状态和安全门禁，评估金融 Agent 是否真正完成工作。
-  - [**债券承做 Agent Benchmark**](https://github.com/vitoworleone/bond-underwriting-agent-benchmark)：面向财务摘要、底稿核验、披露一致性、反馈回复与 ABS 资产核验等工作流的任务设计案例。
-  - [**AI for Finance Practitioners**](https://github.com/vitoworleone/ai-for-finance-practitioners)：面向金融知识工作的证据优先 AI 工作流与人工复核方法。
+  - **金融智能体评测：**面向文档密集型金融工作的 Benchmark 与程序化 Verifier。
 - 🧩 **业务经验：**企业知识服务、金融工作流、ABS 底稿、债券承做、财务分析与信用尽调。
 - 🧠 **深度关注：**`企业 AI 数据` `文档智能` `RAG` `智能体系统` `工作流编排` `AI 评测`
 - 💬 **欢迎交流：**企业 AI 产品、可靠的 Agent 工作流、金融垂类 AI，以及如何将 LLM 产品推向生产。
@@ -53,9 +51,6 @@ MatrixOne Intelligence（MOI）是一套面向企业复杂数据与知识工作�
 --- | ---
 [MatrixOne Intelligence Casebook](https://github.com/vitoworleone/matrixone-intelligence-casebook) | MOI 的产品案例集，覆盖数据接入、工作流、知识检索、Agent、平台治理、POC、评测与 Storybook。
 [Astra](https://github.com/vitoworleone/Astra) | 让智能体能在企业私有系统中长期、安全执行任务的平台：任务可续跑，权限可控，操作可追溯、可回滚。
-[金融 CUA Benchmark](https://github.com/vitoworleone/financial-cua-benchmark) | 金融 Agent 任务与评测框架：将业务任务定义为可验证状态转移，并通过字段、公式、来源、提交状态和安全门禁完成评估。
-[债券承做 Agent Benchmark](https://github.com/vitoworleone/bond-underwriting-agent-benchmark) | 面向财务摘要、底稿核验、披露一致性、反馈回复与 ABS 资产核验等工作流的任务设计案例。
-[AI for Finance Practitioners](https://github.com/vitoworleone/ai-for-finance-practitioners) | 面向金融 AI 工作流的任务设计、证据核验、权限控制与人工复核指南。
 [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook) | 面向 Coding Agent 的实战知识库与 Agent Runtime 工坊。
 [DeepResearch Industry Assistant](https://github.com/vitoworleone/DeepResearch-Industry-Assistant) | 面向行业情报的可追溯多智能体研究系统。
 [OfferUpin](https://github.com/vitoworleone/OfferUpin) | 基于 FastAPI、React、LangGraph、PostgreSQL 与 Redis 构建的 AI 简历诊断与优化平台。
