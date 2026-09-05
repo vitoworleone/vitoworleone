@@ -49,6 +49,7 @@ Designed financial-domain agent benchmarks and programmatic verifiers for ABS do
 
 Project | Description
 --- | ---
+[Financial CUA Benchmark](https://github.com/vitoworleone/financial-cua-benchmark) | A deterministic task and verifier framework for evaluating whether financial computer-use agents truly complete work under business constraints.
 [MatrixOne Intelligence Casebook](https://github.com/vitoworleone/matrixone-intelligence-casebook) | Product cases for MOI covering data ingestion, workflows, knowledge retrieval, agents, platform governance, POCs, evaluation, and Storybook.
 [Astra](https://github.com/vitoworleone/Astra) | A self-hosted runtime for agents working across private enterprise systems—with persistent tasks, permission-aware execution, and traceable, reversible changes.
 [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook) | A practical knowledge base and runtime workshop for building with coding agents.

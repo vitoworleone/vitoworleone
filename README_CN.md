@@ -49,6 +49,7 @@ MatrixOne Intelligence（MOI）是一套面向企业复杂数据与知识工作�
 
 项目 | 简介
 --- | ---
+[金融 CUA Benchmark](https://github.com/vitoworleone/financial-cua-benchmark) | 用于评估金融 Computer-Use Agent 是否在业务约束下真正完成任务的确定性任务与 Verifier 框架。
 [MatrixOne Intelligence Casebook](https://github.com/vitoworleone/matrixone-intelligence-casebook) | MOI 的产品案例集，覆盖数据接入、工作流、知识检索、Agent、平台治理、POC、评测与 Storybook。
 [Astra](https://github.com/vitoworleone/Astra) | 让智能体能在企业私有系统中长期、安全执行任务的平台：任务可续跑，权限可控，操作可追溯、可回滚。
 [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook) | 面向 Coding Agent 的实战知识库与 Agent Runtime 工坊。
