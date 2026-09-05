@@ -12,6 +12,7 @@
   - [**MatrixOne Intelligence（MOI）**](https://github.com/vitoworleone/matrixone-intelligence-casebook)：连接 AI-Ready Data、知识、工作流、Agent 与治理能力的企业级平台。
   - [**Astra**](https://github.com/vitoworleone/Astra)：让智能体能在企业私有系统中长期、安全执行任务的平台：任务可续跑，权限可控，操作可追溯、可回滚。
   - [**债券承做 Agent Benchmark**](https://github.com/vitoworleone/bond-underwriting-agent-benchmark)：面向可复核金融工作流的中文垂类长程任务设计案例。
+  - [**Financial CUA Benchmark**](https://github.com/vitoworleone/financial-cua-benchmark)：包含公开任务合同、确定性验证器、合成测试与明确发布边界的金融 Agent 评测基础项目。
   - [**AI for Finance Practitioners**](https://github.com/vitoworleone/ai-for-finance-practitioners)：面向金融知识工作的证据优先 AI 工作流与人工复核方法。
 - 🧩 **业务经验：**企业知识服务、金融工作流、ABS 底稿、债券承做、财务分析与信用尽调。
 - 🧠 **深度关注：**`企业 AI 数据` `文档智能` `RAG` `智能体系统` `工作流编排` `AI 评测`
@@ -53,6 +54,7 @@ MatrixOne Intelligence（MOI）是一套面向企业复杂数据与知识工作�
 [MatrixOne Intelligence Casebook](https://github.com/vitoworleone/matrixone-intelligence-casebook) | MOI 的产品案例集，覆盖数据接入、工作流、知识检索、Agent、平台治理、POC、评测与 Storybook。
 [Astra](https://github.com/vitoworleone/Astra) | 让智能体能在企业私有系统中长期、安全执行任务的平台：任务可续跑，权限可控，操作可追溯、可回滚。
 [债券承做 Agent Benchmark](https://github.com/vitoworleone/bond-underwriting-agent-benchmark) | 面向债券承做工作流的中文垂类长程 Agent 任务设计，包含确定性检查与人工评审边界。
+[Financial CUA Benchmark](https://github.com/vitoworleone/financial-cua-benchmark) | 金融 Agent 评测基础项目：任务方法论、20 个标准任务目录、确定性 Verifier 模式，以及已重构模块的合成测试。
 [AI for Finance Practitioners](https://github.com/vitoworleone/ai-for-finance-practitioners) | 面向金融 AI 工作流的任务设计、证据核验、权限控制与人工复核指南。
 [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook) | 面向 Coding Agent 的实战知识库与 Agent Runtime 工坊。
 [DeepResearch Industry Assistant](https://github.com/vitoworleone/DeepResearch-Industry-Assistant) | 面向行业情报的可追溯多智能体研究系统。

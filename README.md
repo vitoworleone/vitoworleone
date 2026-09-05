@@ -12,6 +12,7 @@ I design AI products for complex knowledge work: from data ingestion and governa
   - [**MatrixOne Intelligence (MOI)**](https://github.com/vitoworleone/matrixone-intelligence-casebook): an enterprise platform connecting AI-ready data, knowledge, workflows, agents, and governance.
   - [**Astra**](https://github.com/vitoworleone/Astra): a self-hosted runtime for agents working across private enterprise systems—with persistent tasks, permission-aware execution, and traceable, reversible changes.
   - [**Bond Underwriting Agent Benchmark**](https://github.com/vitoworleone/bond-underwriting-agent-benchmark): a Chinese vertical long-horizon task design casebook for reviewable financial workflows.
+  - [**Financial CUA Benchmark**](https://github.com/vitoworleone/financial-cua-benchmark): a refactored financial Agent evaluation foundation with public task contracts, deterministic verifiers, synthetic tests, and explicit release boundaries.
   - [**AI for Finance Practitioners**](https://github.com/vitoworleone/ai-for-finance-practitioners): evidence-first AI workflow and human-review patterns for financial knowledge work.
 - 🧩 **Domain Experience:** enterprise knowledge services, financial workflows, ABS documentation, bond underwriting, financial analysis, and credit due diligence.
 - 🧠 **Deep Focus:** `Enterprise AI Data` `Document Intelligence` `RAG` `Agent Systems` `Workflow Orchestration` `AI Evaluation`
@@ -53,6 +54,7 @@ Project | Description
 [MatrixOne Intelligence Casebook](https://github.com/vitoworleone/matrixone-intelligence-casebook) | Product cases for MOI covering data ingestion, workflows, knowledge retrieval, agents, platform governance, POCs, evaluation, and Storybook.
 [Astra](https://github.com/vitoworleone/Astra) | A self-hosted runtime for agents working across private enterprise systems—with persistent tasks, permission-aware execution, and traceable, reversible changes.
 [Bond Underwriting Agent Benchmark](https://github.com/vitoworleone/bond-underwriting-agent-benchmark) | Chinese vertical, long-horizon Agent task design for bond underwriting workflows, with deterministic checks and human-review boundaries.
+[Financial CUA Benchmark](https://github.com/vitoworleone/financial-cua-benchmark) | A financial Agent evaluation foundation: task methodology, a 20-task catalog, deterministic verifier patterns, and synthetic tests for refactored modules.
 [AI for Finance Practitioners](https://github.com/vitoworleone/ai-for-finance-practitioners) | An evidence-first guide to task design, verification, permission control, and human review for financial AI workflows.
 [Claude Code Handbook](https://github.com/vitoworleone/claude-code-handbook) | A practical knowledge base and runtime workshop for building with coding agents.
 [DeepResearch Industry Assistant](https://github.com/vitoworleone/DeepResearch-Industry-Assistant) | A traceable multi-agent research system for industry intelligence.
