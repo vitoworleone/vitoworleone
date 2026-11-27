@@ -57,3 +57,4 @@ Project | Description
 [OfferUpin](https://github.com/vitoworleone/OfferUpin) | An AI-powered resume diagnosis and optimization platform built with FastAPI, React, LangGraph, PostgreSQL, and Redis.
 
 > I care about more than whether AI can generate an answer. I care whether it can complete work, show its evidence, and earn trust.
+<!-- kanban smoke test -->
